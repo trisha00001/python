@@ -1,2 +1,11 @@
-# python
-python
+<p><strong style="color: #c81b6b; font-size: 1rem;"><span style="font-family: verdana, arial, helvetica, sans-serif; font-size: medium;">Дополнительные источники для изучения языка Python</span></strong></p>
+<p></p>
+<p><a href="https://stepik.org/course/58852/info"><span style="font-family: verdana, arial, helvetica, sans-serif; font-size: large; color: #333399;"><span style="color: #333399;"><span>"Поколение Python": курс для начинающих</span></span></span> <span style="font-size: large; font-family: verdana, arial, helvetica, sans-serif; color: #333399;">на платформе stepik.org</span></a></p>
+<p><span style="color: #333399; font-family: verdana, arial, helvetica, sans-serif; font-size: large;"><a href="https://stepik.org/course/58852/info"><span style="color: #333399;">"Поколение Python": курс для продвинутых на платформе stepik.org</span></a></span></p>
+<p><a href="https://developers.google.com/edu/python?hl=ru"><span style="color: #333399; font-family: verdana, arial, helvetica, sans-serif; font-size: large;"><span style="color: #333399;"><span>Класс Python от Google</span></span></span></a></p>
+<p><a href="https://wiki.python.org/moin/BeginnersGuide"><span style="font-family: verdana, arial, helvetica, sans-serif; font-size: large; color: #333399;"><span style="color: #333399;">Руководство для начинающих</span> на сайте python.org</span></a></p>
+<p></p>
+<p><span style="color: #333399; font-family: verdana, arial, helvetica, sans-serif;"><a href="https://learn.microsoft.com/ru-ru/training/paths/beginner-python/"><span style="color: #333399;"><strong style="color: #c81b6b; font-size: 1rem;"></strong><span style="font-size: large;">Python для начинающих на сайте microsoft.com</span></span></a></span></p>
+<p><span style="font-family: verdana, arial, helvetica, sans-serif; font-size: large;"><span style="color: #333399;"><span style="color: #333399;"></span></span><span style="color: #333399;"><a href="https://learn.microsoft.com/ru-ru/training/paths/python-language/"><span style="color: #333399;">Создание приложений Python для реальных задач на сайте microsoft.com</span></a></span></span></p>
+<p><a href="https://www.freecodecamp.org/news/best-python-courses/"><span style="font-family: verdana, arial, helvetica, sans-serif; font-size: large;"><span style="color: #333399;"><span style="color: #333399;">Ссылки на 10 лучших курсов по языку программирования Python по мнению freecodecamp.org</span></span></span></a></p>
+<p></p>
